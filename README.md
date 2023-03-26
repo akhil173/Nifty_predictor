@@ -29,5 +29,6 @@ pandas
 numpy
 sklearn
 matplotlib
-tvDatafeed```
+tvDatafeed
+```
 
