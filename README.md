@@ -23,11 +23,11 @@ The model is then saved using TensorFlow's SavedModel format.
 
 
 # Required Libraries
-tensorflow\n
-keras\n
-pandas\n
-numpy\n
-sklearn\n
-matplotlib\n
-tvDatafeed\n
+````tensorflow
+keras
+pandas
+numpy
+sklearn
+matplotlib
+tvDatafeed````
 
