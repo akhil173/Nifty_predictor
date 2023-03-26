@@ -20,3 +20,14 @@ We then train the model with epoch=150 ( The epoch value can be variable accordi
 
 
 The model is then saved using TensorFlow's SavedModel format.
+
+
+# Required Libraries
+`tensorflow
+keras
+pandas
+numpy
+sklearn
+matplotlib
+tvDatafeed
+`
